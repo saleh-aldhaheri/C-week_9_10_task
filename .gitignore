@@ -1,0 +1,14 @@
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+.DS_Store
+Thumbs.db
+Main/data/*
+!Main/data/subjects.txt
