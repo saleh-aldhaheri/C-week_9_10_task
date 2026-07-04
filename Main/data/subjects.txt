@@ -1,12 +1,12 @@
 Id: 1
 Name: Mathematics
-TeacherId: 4
+TeacherId:
 StudentIds: 1,2
 ===
 Id: 2
 Name: Science
-TeacherId: 1
-StudentIds: 1,2
+TeacherId: 
+StudentIds: 1
 ===
 Id: 3
 Name: Physics
@@ -15,11 +15,11 @@ StudentIds: 1,2
 ===
 Id: 4
 Name: English
-TeacherId: 
-StudentIds: 1,3
+TeacherId:
+StudentIds: 1
 ===
 Id: 5
 Name: Programming
-TeacherId: 5
-StudentIds: 1,2,5
+TeacherId:
+StudentIds: 1,2
 ===
